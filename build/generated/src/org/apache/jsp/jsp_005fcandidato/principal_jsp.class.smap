@@ -1,0 +1,40 @@
+SMAP
+principal_jsp.java
+JSP
+*S JSP
+*F
++ 0 principal.jsp
+jsp_candidato/principal.jsp
++ 1 cabecalho.jsp
+jsp_candidato/cabecalho.jsp
++ 2 lateral.jsp
+jsp_candidato/lateral.jsp
+*L
+1,52:68
+1#1,41:120
+41,18:161
+52#0,2:178
+54,5:181
+58,25:186
+83,2:212
+84,3:214
+87,2:217,3
+89:223
+90:225,2
+91:227,3
+92,2:230
+94,2:232,3
+96,4:238
+100,2:243
+101,13:245
+114:258,3
+115,65:261
+1#2,10:326
+11,3:337
+13,6:340
+19:346,3
+20,5:349
+24,3:354
+26,3:357
+179#0,8:360
+*E
